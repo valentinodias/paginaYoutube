@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.caja1 {
+    background-color: rgb(240, 229, 229);
+    height: 50px;
+    padding: 0px;
+}
+
+.caja2 {
+    background-color: rgb(228, 219, 219);
+    height: 2500px;
+    padding: 0px;
+}
+
+.caja3 {
+    background-color: rgb(230, 221, 221);
+    height: 2500px;
+    padding: 0px;
+}
